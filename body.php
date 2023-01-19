@@ -2,11 +2,8 @@
    <div class="main main-raised">
         <div class="container mainn-raised" style="width:100%;">
   
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-   
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">   
 
-    <!-- Wrapper for slides -->
     <div class="carousel-inner">
 
       <div class="item active">
@@ -30,7 +27,6 @@
   
     </div>
 
-    <!-- Left and right controls -->
     <a class="left carousel-control _26sdfg" href="#myCarousel" data-slide="prev">
       <span class="glyphicon glyphicon-chevron-left"></span>
       <span class="sr-only" >Previous</span>
