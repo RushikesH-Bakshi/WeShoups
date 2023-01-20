@@ -6,14 +6,9 @@
         border-radius:30px;
     }
     </style>
-				<!-- row -->
-				
                 <div class="container-fluid">
 					
-						
-						
-						<!-- /Billing Details -->
-						
+						<!-- /Billing Details -->						
 								<form id="signup_form" onsubmit="return false" class="login100-form">
 									<div class="billing-details jumbotron">
                                     <div class="section-title">
