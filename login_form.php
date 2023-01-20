@@ -15,7 +15,7 @@ if (isset($_POST["login_user_with_product"])) {
 
 	<div class="wait overlay">
 		<div class="loader"></div>
-	</div>
+	</div
 	<div class="container-fluid">
 				<!-- row -->
 				
