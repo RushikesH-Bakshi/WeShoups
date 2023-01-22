@@ -100,7 +100,6 @@ if(isset($_POST["getProducthome"])){
 	}
 }
 
-
 if(isset($_POST["gethomeProduct"])){
 	$limit = 9;
 	if(isset($_POST["setPage"])){
